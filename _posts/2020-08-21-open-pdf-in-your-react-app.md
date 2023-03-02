@@ -37,7 +37,7 @@ excerpt: I just "re-model" my portfolio website and I decided to change the way 
 
 <!-- wp:paragraph -->
 
-I just "remodeled" my portfolio website and I decided to change the way I was displaying my resume. A [few posts](https://blog.josedromero.com/how-to-add-pdf-into-your-react-app/) ago I talked about how to render a pdf into your react app using React-PDF. This time I decided that instead of rendering inside the app I actually wanted to open it in the browser.
+I just "remodeled" my portfolio website and I decided to change the way I was displaying my resume. A [few posts](/how-to-add-pdf-into-your-react-app/) ago I talked about how to render a pdf into your react app using React-PDF. This time I decided that instead of rendering inside the app I actually wanted to open it in the browser.
 
 <!-- /wp:paragraph -->
 

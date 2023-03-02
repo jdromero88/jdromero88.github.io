@@ -45,7 +45,7 @@ excerpt: 'Hola! Time to continue with our first project. Now we will be building
 ---
 <!-- wp:paragraph -->
 
-Hola! Time to continue with our first project. Now we will be building a static website. (Sorry about the sound but if you use headphones you can hear better) [Check out the part 1](https://blog.josedromero.com/starting-your-first-project/)
+Hola! Time to continue with our first project. Now we will be building a static website. (Sorry about the sound but if you use headphones you can hear better) [Check out the part 1](/starting-your-first-project/)
 
 <!-- /wp:paragraph -->
 

@@ -36,7 +36,7 @@ excerpt: En el post anterior hable de como configurar git. Bueno ahora toca habl
 
 <!-- wp:paragraph -->
 
-En el post [anterior](https://blog.josedromero.com/starting-with-github/) hable de como configurar git. Bueno ahora toca hablar de los comandos básicos que todos debemos saber. Los comandos que yo uso todos los dias son `add, commit, push, merge, checkout, status`
+En el post [anterior](/starting-with-github/) hable de como configurar git. Bueno ahora toca hablar de los comandos básicos que todos debemos saber. Los comandos que yo uso todos los dias son `add, commit, push, merge, checkout, status`
 
 <!-- /wp:paragraph -->
 

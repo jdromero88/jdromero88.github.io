@@ -32,7 +32,7 @@ excerpt: |-
 ---
 <!-- wp:paragraph -->
 
-You have just finished setting up your [developer environment](https://blog.josedromero.com/setting-up-your-linux-mint-developer-environment/). Now we can start working on your first project!
+You have just finished setting up your [developer environment](/setting-up-your-linux-mint-developer-environment/). Now we can start working on your first project!
 
 <!-- /wp:paragraph -->
 
@@ -170,7 +170,7 @@ That is it for now! You can play around adding more html.
 
 <!-- wp:paragraph -->
 
-On the [next post](https://blog.josedromero.com/starting-your-first-project-part-2/) I'm going to show you how to use github with your project and making this website prettier. [Part 2](https://blog.josedromero.com/starting-your-first-project-part-2/)
+On the [next post](/starting-your-first-project-part-2/) I'm going to show you how to use github with your project and making this website prettier. [Part 2](/starting-your-first-project-part-2/)
 
 <!-- /wp:paragraph -->
 

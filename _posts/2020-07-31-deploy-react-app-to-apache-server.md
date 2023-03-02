@@ -68,7 +68,7 @@ When I felt that my website was ready to put it live and show it to the world I 
 
 <!-- wp:paragraph -->
 
-Ok normally to put your website live you need to upload to your hosting to your index.html and other files you used. Normally it looks like this for a [static website](https://blog.josedromero.com/starting-your-first-project/)
+Ok normally to put your website live you need to upload to your hosting to your index.html and other files you used. Normally it looks like this for a [static website](/starting-your-first-project/)
 
 <!-- /wp:paragraph -->
 
@@ -108,7 +108,7 @@ So the question was: Do I need to upload all these files? or how the heck do I d
 
 <!-- wp:paragraph -->
 
-The website that I'm going to deploy is the one I made in this [blog post](https://blog.josedromero.com/create-sitemap-for-your-react-app/).
+The website that I'm going to deploy is the one I made in this [blog post](/create-sitemap-for-your-react-app/).
 
 <!-- /wp:paragraph -->
 

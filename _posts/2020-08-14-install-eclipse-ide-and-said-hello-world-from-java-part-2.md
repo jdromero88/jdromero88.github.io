@@ -29,7 +29,7 @@ excerpt: Now is time to continue and finally use the Eclipse IDE we installed in
 ---
 <!-- wp:paragraph -->
 
-Now it is time to continue and finally use the Eclipse IDE we installed in the previous [post](https://blog.josedromero.com/install-eclipse-ide-and-said-hello-world-from-java/). Today we will create an app to print Hello World using the Eclipse IDE.
+Now it is time to continue and finally use the Eclipse IDE we installed in the previous [post](/install-eclipse-ide-and-said-hello-world-from-java/). Today we will create an app to print Hello World using the Eclipse IDE.
 
 <!-- /wp:paragraph -->
 

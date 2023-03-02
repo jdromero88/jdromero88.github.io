@@ -16,7 +16,7 @@ excerpt: Continuando con el post anterior. Ahora hay que convertir el archivo cs
 ---
 <!-- wp:paragraph -->
 
-Continuando con el [post anterior](https://blog.josedromero.com/pasar-proyecto-de-css-a-sass-parte-1/). Ahora hay que convertir el archivo **css** a **scss**. Una foto para ver como esta la estructura de mi proyecto.
+Continuando con el [post anterior](/pasar-proyecto-de-css-a-sass-parte-1/). Ahora hay que convertir el archivo **css** a **scss**. Una foto para ver como esta la estructura de mi proyecto.
 
 <!-- /wp:paragraph -->
 

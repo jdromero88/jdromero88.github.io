@@ -30,7 +30,7 @@ excerpt: En el post anterior hable del operador ternario en JavaScript ahora es 
 ---
 <!-- wp:paragraph -->
 
-En el post anterior hable del [operador ternario en JavaScript](https://blog.josedromero.com/operador-condicional-ternario-en-javascript/) ahora es el turno de Ruby.
+En el post anterior hable del [operador ternario en JavaScript](/operador-condicional-ternario-en-javascript/) ahora es el turno de Ruby.
 
 <!-- /wp:paragraph -->
 

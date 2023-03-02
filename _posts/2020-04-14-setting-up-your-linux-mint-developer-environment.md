@@ -70,7 +70,7 @@ Requirements:
 
 <!-- wp:list -->
 
-- Linux Mint. (I used the version 19.3 Tricia) [Click here to check previous post to install it](https://blog.josedromero.com/install-linux-mint/).
+- Linux Mint. (I used the version 19.3 Tricia) [Click here to check previous post to install it](/install-linux-mint/).
 - Notes to install: [https://github.com/jdromero88/linux-mint-environment-setup](https://github.com/jdromero88/linux-mint-environment-setup)
 
 <!-- /wp:list -->

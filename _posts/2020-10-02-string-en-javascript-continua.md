@@ -35,7 +35,7 @@ excerpt: En el post anterior hable del objeto String. Ahora voy a continuar con 
 
 <!-- wp:paragraph -->
 
-En el [post anterior](https://blog.josedromero.com/string-en-javascript/) hable del objeto String. Ahora voy a continuar con otros de los objectos incorporados (built-in objects) que trae JavaScript para manipular Strings.
+En el [post anterior](/string-en-javascript/) hable del objeto String. Ahora voy a continuar con otros de los objectos incorporados (built-in objects) que trae JavaScript para manipular Strings.
 
 <!-- /wp:paragraph -->
 

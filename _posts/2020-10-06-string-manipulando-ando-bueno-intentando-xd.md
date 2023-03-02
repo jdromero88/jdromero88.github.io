@@ -194,7 +194,7 @@ console.log(oracion.toUpperCase())
 
 <!-- wp:list -->
 
-- y el método [slice()](https://blog.josedromero.com/string-en-javascript-continua/) del cual ya aprendimos en el [post anterior](https://blog.josedromero.com/string-en-javascript-continua/).
+- y el método [slice()](/string-en-javascript-continua/) del cual ya aprendimos en el [post anterior](/string-en-javascript-continua/).
 
 <!-- /wp:list -->
 
